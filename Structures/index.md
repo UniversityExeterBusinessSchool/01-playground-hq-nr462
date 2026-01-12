@@ -1,4 +1,3 @@
-```markdown
 # My Structure - Student 13
 
 ## What I See in My Data
@@ -23,6 +22,4 @@ Nothing
 None
 
 ![Student 13](https://github.com/user-attachments/assets/22639fd2-3887-4307-844c-66a2f7d3a154)
-
-```
 
